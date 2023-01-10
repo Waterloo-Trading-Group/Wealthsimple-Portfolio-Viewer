@@ -1,0 +1,20 @@
+[
+    {
+        "currency": "USD",
+        "security_type": "equity",
+        "symbol": "ABNB",
+        "name": "Airbnb Inc (Class A)",
+        "exchange": "NASDAQ",
+        "quantity": 0.2985,
+        "book_value": 34.47,
+        "price": 87.71,
+        "current_value": 26.18,
+        "profit": {
+            "net": 1.88,
+            "percent": 5.000000000000004
+        },
+        "netProfit": 1.88,
+        "percentProfit": 5.000000000000004,
+        "sector": "Consumer Cyclical"
+    }
+]
